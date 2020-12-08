@@ -1,5 +1,5 @@
 import React, { Component, useState } from "react";
-import Province from "./province";
+import Province from "./Province";
 import "./../styles/App.css";
 
 // Do not alter the states const and values inside it.
